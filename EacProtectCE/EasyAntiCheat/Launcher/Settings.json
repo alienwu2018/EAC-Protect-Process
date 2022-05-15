@@ -1,0 +1,11 @@
+{
+	"title"											: "Cheat Engine",
+	"executable"									: ".\\Cheat Engine 7.4\\cheatengine-x86_64-SSE4-AVX2.exe",
+	"logo_position"									: "bottom-left",
+	"parameters"									: "",
+	"use_cmdline_parameters"						: "1",
+	"working_directory"								: "",
+	"wait_for_game_process_exit"					: "0",
+	"hide_splash_screen"							: "0",
+	"hide_ui_controls"								: "0"
+}
